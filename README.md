@@ -1,12 +1,12 @@
-<span align="center">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/walter-retzer)](https://github.com/walter-retzer)
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hellooo Helloo World! </h2>
+## Walter Dawid Retzer 👋 
 
-</span>
-
-Hi, I'm Walter Retzer!
 
 -💬 Estudante de Desenvolvimento Android - Kotlin / Digital House
 
 
 -📫 E-mail: walter.d.retzer@gmail.com
+
+
+- 💌 LinkedIn: 
