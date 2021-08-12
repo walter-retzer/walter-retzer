@@ -9,4 +9,4 @@
 -📫 E-mail: walter.d.retzer@gmail.com
 
 
-- 💌 LinkedIn: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walterdawid/)](https://www.linkedin.com/in/walterdawid/) 
