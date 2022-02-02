@@ -12,10 +12,5 @@
 
  -🚀 LinkedIn: www.linkedin.com/in/walterdawid
  
-  
- <a href="https://github.com/walter-retzer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walter-retzer&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/walter-retzer/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walter-retzer&repo=convoychat" />
-</a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-retzer/&langs_count=8)](https://github.com/walter-retzer/github-readme-stats)
