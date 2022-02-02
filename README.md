@@ -15,3 +15,5 @@
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-retzer&layout=compact)](https://github.com/walter-retzer/github-readme-stats)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walter-retzer&repo=github-readme-stats)](https://github.com/walter-retzer/github-readme-stats)
