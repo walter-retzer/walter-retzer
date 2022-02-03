@@ -8,11 +8,7 @@
 
  -🚀 LinkedIn: www.linkedin.com/in/walterdawid
  
+ -📝 Estatisticas:
  
- ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=walter-retzer)
- 
- ![GitHub stats](	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walter-retzer&theme=vue)
-  
-  
-
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walter-retzer) ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=walter-retzer) 
  
