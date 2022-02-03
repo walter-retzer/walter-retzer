@@ -2,18 +2,16 @@
 
 -💬 Estudante de Desenvolvimento Android - Kotlin / Digital House 
 
-
-
 -⚙ Entusiasta por Tecnologia IoT(Internet das Coisas) e Arduino. 
-
-
 
 -📫 E-mail: walter.d.retzer@gmail.com
 
-
  -🚀 LinkedIn: www.linkedin.com/in/walterdawid
  
- 	
+ 
+ ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=walter-retzer)
+ 
+ ![GitHub stats](	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walter-retzer&theme=vue)
   
   
 
