@@ -8,10 +8,6 @@
 
 -🚀 LinkedIn: www.linkedin.com/in/walterdawid
  
--📝 Estatisticas:
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walter-retzer) ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=walter-retzer) 
- 
 -💻 Projetos Utilizando:
 
 ![Github Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Github Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Github Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Github Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)                        
