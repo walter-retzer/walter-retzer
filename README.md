@@ -4,9 +4,10 @@
 
 ![](https://media.tenor.com/PThAGaLiRVQAAAAM/androidrobot.gif)
 
+![](http://www.bbmgif.com/images/android_3d.gif)
+
 -⚙ Entusiasta por Tecnologia IoT(Internet das Coisas) e Arduino. 
 
-![](https://media.licdn.com/dms/image/C4D12AQFGO-4hogiQUA/article-cover_image-shrink_600_2000/0/1629708775472?e=2147483647&v=beta&t=MS3xe_6koFByRUm6owa-dqiYjJD7tnnKH95vf3jErT8)
 
 -📫 E-mail: walter.d.retzer@gmail.com
 
