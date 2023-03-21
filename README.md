@@ -11,7 +11,9 @@
 
 ### ☛ Linguagem Kotlin ✔️
 
-![](https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvYjk0NjZlNjg3MWNiMGU4N2NmODE2OGYwMTVhMmE4YWIuZ2lm)
+<p align="center">
+  <img src="https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvYjk0NjZlNjg3MWNiMGU4N2NmODE2OGYwMTVhMmE4YWIuZ2lm" alt="animated" />
+</p>
 
 ### Conhecimento e Habilidades:
 - [x] Android Studio
@@ -21,6 +23,10 @@
 - [x] Material Design
 
 ## ⚙ Entusiasta por Tecnologia IoT(Internet das Coisas)
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4D12AQFGO-4hogiQUA/article-cover_image-shrink_600_2000/0/1629708775472?e=2147483647&v=beta&t=MS3xe_6koFByRUm6owa-dqiYjJD7tnnKH95vf3jErT8" alt="animated" />
+</p>
 
 ### Hobby nas horas Vagas:
 - [x] Arduino
