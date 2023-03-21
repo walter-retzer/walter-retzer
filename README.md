@@ -4,12 +4,7 @@
 
 ![](https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvYjk0NjZlNjg3MWNiMGU4N2NmODE2OGYwMTVhMmE4YWIuZ2lm)
 
-![](https://media.tenor.com/PThAGaLiRVQAAAAM/androidrobot.gif)
-
-![](https://i.gifer.com/origin/b3/b32164a187f10c6a6939ee14410e681d.gif)
-
 -⚙ Entusiasta por Tecnologia IoT(Internet das Coisas) e Arduino. 
-
 
 -📫 E-mail: walter.d.retzer@gmail.com
 
