@@ -6,6 +6,8 @@
 
 -⚙ Entusiasta por Tecnologia IoT(Internet das Coisas) e Arduino. 
 
+![](https://media4.giphy.com/media/DlO9VhMVZ0wLCxs7Ka/200w.gif?cid=82a1493bcmbypm1oilqdndo1ho6g5rtu8dbqz8ltwhm6icck&rid=200w.gif&ct=g)
+
 -📫 E-mail: walter.d.retzer@gmail.com
 
 -🚀 LinkedIn: www.linkedin.com/in/walterdawid
