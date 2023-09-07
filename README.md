@@ -49,6 +49,9 @@ Aplicativo que exibe informações meteorológicas, consumindo dados do OpenWeat
 
 ## 💻 Soluções IoT Desenvolvidas
 
+### [Monitoramento Remoto](https://github.com/walter-retzer/Cervejaria_Half_Mouth_IoT_Project) 📡
+Projeto IoT para monitoramento remoto da cervejaria HalfMouth utilizando microcontrolador ESP32 e TCALL ESP32 SIM800L para envio de temperatura dos fermentadores e status de funcionamento do Chiller e Camara Fria ao servidor da plataforma ThingSpeak.
+
 ### [Nano Smart Agro](https://github.com/walter-retzer/Projeto_IoT) 📡
 Projeto IoT para monitoramento remoto de variáveis de um vinhedo em Piedade/SP utilizando microcontrolador Arduino Mega com
 comunicação via GPRS através do módulo SIM800L para envio de dados aos servidores das plataformas ThingSpeak e Ubidots.
