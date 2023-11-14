@@ -7,9 +7,12 @@
   <li><a href="https://wa.me/+5515991080703?text=Hi" rel="me">Whatsapp</a>
 </ul>
 
-## 💬 Desenvolvedor Mobile Android
+## 💬 Desenvolvedor Mobile Android Nativo
 
-### ☛ Linguagem Kotlin ✔️
+### ✔️ Linguagem Kotlin 
+### ✔️ JetPack Compose✔️
+### ✔️ Kotlin Multiplataforma Mobile (KMM)
+### ✔️ Firebase
 
 <p align="center">
   <img src="https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvYjk0NjZlNjg3MWNiMGU4N2NmODE2OGYwMTVhMmE4YWIuZ2lm" alt="animated" />
@@ -49,7 +52,7 @@ Aplicativo que exibe informações meteorológicas, consumindo dados do OpenWeat
 
 ## 💻 Soluções IoT Desenvolvidas
 
-### [Monitoramento Remoto](https://github.com/walter-retzer/Cervejaria_Half_Mouth_IoT_Project) 📡
+### [Cervejaria Monitoramento Remoto](https://github.com/walter-retzer/Cervejaria_Half_Mouth_IoT_Project) 📡
 Projeto IoT para monitoramento remoto da cervejaria HalfMouth utilizando microcontrolador ESP32 e TCALL ESP32 SIM800L para envio de temperatura dos fermentadores e status de funcionamento do Chiller e Camara Fria ao servidor da plataforma ThingSpeak.
 
 ### [Nano Smart Agro](https://github.com/walter-retzer/Projeto_IoT) 📡
