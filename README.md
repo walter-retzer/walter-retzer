@@ -14,10 +14,6 @@
 ### ✔️ Kotlin Multiplataforma Mobile (KMM)
 ### ✔️ Firebase
 
-<p align="center">
-  <img src="https://media.taringa.net/knn/fit:550/Z3M6Ly9rbjMvYjk0NjZlNjg3MWNiMGU4N2NmODE2OGYwMTVhMmE4YWIuZ2lm" alt="animated" />
-</p>
-
 ### Conhecimento e Habilidades:
 - [x] Android Studio
 - [x] Git
