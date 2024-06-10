@@ -10,6 +10,7 @@
 ## 💬 Desenvolvedor Mobile Android Nativo
 
 ### ✔️ Linguagem Kotlin 
+### ✔️ Construção de Telas com XML 
 ### ✔️ JetPack Compose
 ### ✔️ Kotlin Multiplataforma Mobile (KMM)
 ### ✔️ Firebase
